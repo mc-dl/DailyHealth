@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>苹果</item>
+        <item>柠檬</item>
+        <item>番茄</item>
+        <item>梨</item>
+        <item>菠萝</item>
+        <item>桃子</item>
+        <item>榴莲</item>
+        <item>香蕉</item>
+        <item>西瓜</item>
+        <item>葡萄</item>
+        <item>火龙果</item>
+        <item>柚子</item>
+        <item>橘子</item>
+
+    </string-array>
+    <string-array name="intro">
+        <item>每天吃少量的苹果就能预防多种疾病，常吃苹果来预防癌症，因为其中含量丰富的phytochemical天然抗氧化剂能够有效消除自由基，降低癌症(癌症食品)发生率。苹果富含纤维物质，可降低心脏病发病率，还可以减肥。另外，还有补心润肺、生津解毒、益气和胃、醒酒平肝的功效。但是由于果糖和果酸较多，对牙齿有较强的腐蚀作用，吃后最好及时漱口刷牙。</item>
+        <item>柠檬含有“黄酮类”，可杀灭多种病原菌，并且富含柠檬酸及柠檬油(油食品)精，有助于增加肝脏的酵素含量，加速分解致癌的化学物质，清除积存于肝脏内的杂质与毒素。</item>
+        <item>乃是特具茄红素的超级食物，可抑制体内自由基的产生，防止细胞病变，并且富含柠檬酸与苹果酸，能清热解毒、保肝利尿，对改善宿醉十分有效。</item>
+        <item>梨水分充足，富含维生素a、b、c、d、e和微量元素(微量元素食品)碘，能维持细胞组织的健康状态，帮助器官排毒、净化，还能软化血管，促使血液将更多的钙(钙食品)质运送到骨骼。 但吃梨时一定要细嚼慢咽才能较好的吸收。</item>
+        <item>菠萝的果肉中含有一种独特的酶，能分解蛋白质(蛋白质食品)。因此，若是吃了大量肉类菜肴后，再嚼上几片鲜菠萝，对消化(消化食品)吸收帮助很好。</item>
+        <item>性温，味甘酸，能消暑止渴、清热润肺，有“肺之果”之称，适宜肺病患者食用。桃子果实营养丰富，尤其铁的含量较丰富，是缺铁(铁食品)贫血患者的理想食疗佳果。此外，桃子含钾多，含钠少，适宜水肿患者食。炎夏食桃，可养阴生津，润肠燥。</item>
+        <item>含有丰富的蛋白质和脂类，对机体有很好的补养作用，是良好的果品类营养来源。榴莲有特殊的气味，不同的人感受不同，有的人认为其臭如猫屎，有的人认为香气馥郁。榴莲的这种气味有开胃、促进食欲之功效，其中的膳食纤维还能促进肠蠕动。</item>
+        <item>吃香蕉能帮助内心软弱、多愁善感的人驱散悲观、烦躁的情绪，保持平和、快乐的心情。这主要是因为它能增加大脑中使人愉悦的5—羟色胺物质的含量。抑郁症患者脑中5—羟色胺的含量就比常人要少。</item>
+        <item>西瓜饱含水分与果糖、多种维生素、矿物质及胺基酸，除了改善中暑发烧、汗多口渴、小便量少、尿色深黄外，有口腔炎、便血、酒精中毒者均适宜多吃，疗效显著。</item>
+        <item>葡萄特别适合懒惰的人吃，因为最健康(健康食品)的吃法是不剥皮、不吐籽。葡萄皮和葡萄籽比葡萄肉更有营养。红葡萄酒之所以比白葡萄酒拥有更好的保健(保健食品)功效，就是因为它连皮一起酿造。而法国波尔多大学的专研人员也发现，葡萄籽(葡萄籽食品)中含量丰富的增强免疫、延缓衰老物质opc，进入人体后有85%被吸收利用。</item>
+        <item>营养丰富，功用独特，对人体健康有绝佳的功效。它含有一般植物少有的植物性白蛋白及花青素、丰富的维生素和水溶性膳食纤维。 白蛋白是具黏性、胶质性的物质，对重金属中毒具有解毒的功效。</item>
+        <item>有“天然水果罐头”之称，味甘酸、性寒。含有非常丰富的蛋白质、有机酸、维生素以及钙、磷、镁、钠等人体必需的元素。具有理气化痰、健胃、清肠、润肺、补血、利便、健脾等功效。</item>
+        <item>味甘酸，性凉。有理气润肺、醒酒止痢的功效。橘子可以化湿去痰、解毒止咳、治疗腰痛乳痈等症。但“阴常不足，阳常有余”的人应少吃，以免“上焦火盛”。</item>
+    </string-array>
+
+    <array name="pic">
+        <item>@drawable/apple</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/tomato</item>
+        <item>@drawable/pear</item>
+        <item>@drawable/pineapple</item>
+        <item>@drawable/peach</item>
+        <item>@drawable/durian</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/watermelon</item>
+        <item>@drawable/grape</item>
+        <item>@drawable/pitaya</item>
+        <item>@drawable/pomelo</item>
+        <item>@drawable/orange</item>
+    </array>
+
+    <array name="human_type">
+        <item>0?3?5?7?10?12?</item>
+        <item>0?2?3?4?5?7?8?9?10?12?</item>
+        <item>0?1?2?3?4?5?6?7?8?9?10?11?12?</item>
+        <item>10?11?12?</item>
+    </array>
+<!--    <array name="test">-->
+<!--        <item><array name="??">-->
+<!--            <item>-->
+<!--                0123-->
+<!--            </item>-->
+<!--            <item>-->
+<!--                234-->
+<!--            </item>-->
+<!--        </array></item>-->
+<!--    </array>-->
+    <string-array name="people">
+        <item>婴幼儿</item>
+        <item>青少年</item>
+        <item>成年人</item>
+        <item>高血糖</item>
+    </string-array>
+</resources>
+
