@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import com.example.daily_health.h.*;
 public class MainActivity3 extends AppCompatActivity {
 
     private int humanType=0;

@@ -1,4 +1,4 @@
-package com.example.daily_health;
+package com.example.daily_health.h;
 
 
 
@@ -6,14 +6,18 @@ import android.content.Context;
 
 import android.content.res.TypedArray;
 
+
+import com.example.daily_health.R;
+
 import java.lang.*;
+
 
 
 import java.util.ArrayList;
 
 import java.util.Random;
 
-public class Human{
+public class Human {
 
     private final ArrayList<String> name=new ArrayList<>();
     private final ArrayList<String> intro=new ArrayList<>();
@@ -22,7 +26,6 @@ public class Human{
     public Human(Context context,int Type) {
         getArray(context,Type);
     }
-
     private void getArray(Context context,int Type) {
         String stringId=context.getResources().getStringArray(R.array.human_type)[Type];
 
